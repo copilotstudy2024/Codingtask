@@ -1,1 +1,1 @@
-# Java Repo
+# Java Repo for Co-pilot coding.
